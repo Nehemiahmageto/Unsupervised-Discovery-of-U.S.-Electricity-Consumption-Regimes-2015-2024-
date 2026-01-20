@@ -7,4 +7,3 @@ This project applies unsupervised machine learning to monthly U.S. electric powe
 
 All modeling and analysis are performed in a single, self-contained Jupyter notebook using a CSV-only dataset, with an emphasis on interpretability, real-world relevance, and decision-ready insights.
 
-heyyy
